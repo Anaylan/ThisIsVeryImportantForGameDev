@@ -138,8 +138,9 @@
   - "Effective Modern C++" (Скотт Мейерс).
   - "Game Programming Patterns" (Роберт Найстром).
   - "Mathematics for 3D Game Programming" (Эрик Ленджер).
-  - [Тур по С++. Краткий курс. Третье издание](https://codelibrary.info/files/1446_Tur-po-C++-Kratkiy-kurs.pdf) (Бьерн Страуструп) 
-
+  - [Тур по С++. Краткий курс. Третье издание](https://codelibrary.info/files/1446_Tur-po-C++-Kratkiy-kurs.pdf) (Бьерн Страуструп)
+  - [https://github.com/GunterMueller/Books-3](https://github.com/GunterMueller/Books-3)
+ 
 - **Курсы**:
   - [C++ Nanodegree (Udacity)](https://www.udacity.com).
   - [Unreal Engine C++ Developer (Udemy)](https://www.udemy.com).
